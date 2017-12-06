@@ -1,0 +1,8 @@
+Stock,AB,Alpha Bank,100,10.0,1009.99
+Mutual Fund,BB,Beloved Bank,200,20.0,4000.0
+Stock,CC,Computer Bank,300,30.0,9009.99
+Stock,DB,Digital Bank,400,40.0,16009.99
+Mutual Fund,EB,Electrical Bank,500,50.0,25000.0
+Stock,FB,Face Bank,600,60.0,36009.99
+Stock,GB,Great Bank,700,70.0,49009.99
+Mutual Fund,HB,Hello Bank,900,90.0,81000.0

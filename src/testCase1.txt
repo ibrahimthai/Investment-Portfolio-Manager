@@ -1,0 +1,6 @@
+Stock,TB,Toronto Bank,500,50.0,25009.99
+Stock,TS,Toronto Star,600,60.0,36009.99
+Mutual Fund,RB,Royal Bank,700,70.0,49000.0
+Mutual Fund,pC,PC Financial,400,40.0,16000.0
+Mutual Fund,SB,Scotia Bank,300,30.0,9000.0
+Stock,PC,PC Financial,400,43.0,17209.99
